@@ -1,0 +1,15 @@
+.container{
+    height: 200px;
+}
+.left{
+    width: 30%;
+    float: left;
+    background-color: burlywood;
+    height: 200px;
+}
+.right{
+    float: right;
+    width: 70%;
+    height: 200px;
+    background-color: #b0f9c2;
+}

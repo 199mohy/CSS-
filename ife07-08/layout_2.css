@@ -1,0 +1,14 @@
+.container{
+    height: 200px;
+    display: flex;
+}
+.left{
+    width: 30%;
+    background-color: burlywood;
+    height: 200px;
+}
+.right{
+    width: 70%;
+    height: 200px;
+    background-color: #b0f9c2;
+}

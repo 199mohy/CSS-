@@ -1,0 +1,16 @@
+.container{
+    height: 200px;
+    position: relative;
+}
+.left{
+    position: absolute;
+    width: 30%;
+    background-color: burlywood;
+    height: 200px;
+}
+.right{
+    position: absolute;
+    width: 70%;
+    height: 200px;
+    background-color: #b0f9c2;
+}
