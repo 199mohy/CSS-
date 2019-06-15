@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>IFE任务图</title>
+    <link rel="stylesheet" href="..//IFEtest/design.css">
+</head>
+
+<body>
+    <div id="head">
+        <div id="top">
+            <div id="LOGO">LOGO</div>
+            <div id="account">
+                <ul>
+                    <li class="ac">
+                        <a href="#">Github</a>
+                    </li>
+                    <li class="ac">
+                        <a href="#">Register</a>
+                    </li>
+                    <li class="ac">
+                        <a href="#">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="Banner">
+        <div id="block">
+            <div class="lump">1</div>
+            <div class="lump">2</div>
+            <div class="lump">3</div>
+            <div class="lump">4</div>
+        </div>
+    </div>
+    <div id="nav-wrap">
+        <div id="nav">
+            <div class="nav">HOME</div>
+            <div class="nav">PROFILE</div>
+            <div class="nav">ABOUT</div>
+        </div>
+    </div>
+    <div id="content">
+        <div class="content">
+            <div class="big-content">
+                <div class="OBF">1</div>
+                <div id="OBF-1" class="OBF">2</div>
+                <div class="OBF">3</div>
+            </div>
+            <div class="M-content">
+                <div class="TBF">1</div>
+                <div class="TBF">2</div>
+                <div class="TBF">3</div>
+                <div class="TBF">4</div>
+            </div>
+            <div class="F-content">
+                <div id="FBL" class="FBF">1</div>
+                <div id="FBC" class="FBF">2</div>
+                <div id="FBX" class="FBF">3</div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <footer>2018 ife.baidu.com</footer>
+</body>
+
+</html>
