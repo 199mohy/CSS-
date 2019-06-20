@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>IFE</title>
+    <link rel="stylesheet" href="..//IFEtest/IFE.css">
+</head>
+
+<body>
+    <div class="background">
+        <div class="laout">
+            <div class="HI">Hello World</div>
+            <div class="introduce ">
+                <p>China is speeding up strategic plan.standards.traffic rules.laws and regulations on accident-incurred
+                    liabilities for its smart car industry,Economic Information Daily reported Thursday.</p>
+            </div>
+            <div class="account">
+                <div class="create">
+                    <p>CREATE YOUR ACCOUNT</p>
+                    <span>IT IS ABSOLUTELY FREE</span>
+                </div>
+                <div class="register">
+                    <input type="text" id="zh" class="enroll" value="denis@getcraftwork.com">
+                    <input type="text" id="mm" class="enroll" placeholder="Create your password">
+                    <input type="submit" id="button" value="Sign Up">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="background-2">
+        <div class="marketing">
+            <span>BOATLOADS OF AWESOME</span>
+            <p>Ready-made, customizable, HTML landing page sections</p>
+        </div>
+        <div class="peddle">
+            <div class="oc">
+                <div class="mobile">
+                    <img src="..//前端学院设计图-assets/images/前端学院设计图_03.png">
+                    <p class="intro">Mobile First</p>
+                    <p class="particular">All modulz are built mobile-first for maximum device compatibility.</p>
+                </div>
+                <div class="mobile"><img src="..//前端学院设计图-assets/images/前端学院设计图_10.png">
+                    <p class="intro">Fluid Typography</p>
+                    <p class="particular">On different screen sizes, fonts automagically scale with the viewport.</p>
+                </div>
+            </div>
+            <div class="tc">
+                <div class="mobile"><img src="..//前端学院设计图-assets/images/前端学院设计图_05.png">
+                    <p class="intro">Accessibility</p>
+                    <p class="particular">Support for IE8, mobile and tablet devices, screenreaders and color blind.
+                    </p>
+                </div>
+                <div class="mobile"><img src="..//前端学院设计图-assets/images/前端学院设计图_11.png">
+                    <p class="intro">Customization</p>
+                    <p id="z" class="particular">Make any design your own using the Style Editor. Personalize fonts,
+                        colors,and layouts to create the custom look you want.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="background-3">
+        <p class="policies">Supportive policies for China's smart car</p>
+        <p id="car">China will come up with its own smart car standards, traffic rules, laws and regulations relating to
+            safety, according to the China Industry Innovation Alliance for the Intelligent and Connected Vehicles.</p>
+        <div class="button">
+            <button id="opacity">CHECK OUT FEATURES</button>
+            <button id="Transparent">TRY PRODUCT FOR FREE</button>
+        </div>
+        <div id="ipad">
+            <img src="..//前端学院设计图-assets/IPad.png">
+            <img id="picture" src="..//前端学院设计图-assets/Screen.png">
+        </div>
+    </div>
+    <div class="Products">
+        <div class="block">
+            <p id="Products">Try Our Awesome Products</p>
+            <div class="details">
+                <div class="singleton">
+                    <img src="..//前端学院设计图-assets/Singleton.png">
+                    <p>Li Jun, a China Academy of Engineering academician and also director of the alliance's experts'
+                        committee, said that China will also launch design guidance for smart cars, smart map
+                        architecture and standards for test grounds.</p>
+                </div>
+                <div class="singleton">
+                    <img src="..//前端学院设计图-assets/Hero.png">
+                    <p>Li said the smart car industry is able to enlarge the current car industry by 1 trillion yuan
+                        ($158.15 billion) and also able to boost fast development in 5G, internet of cars, big data,
+                        artificial intelligence and new-energy vehicles.</p>
+                </div>
+                <div class="singleton">
+                    <img src="..//前端学院设计图-assets/Portland.png">
+                    <p>Zhang Junyi, a partner with NIO Capital, said that the smart car is the trend for the car
+                        industry and China's auto sector will usher in a new key development stage with the improvement
+                        of infrastructure, technology, policies and laws.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="white">
+        <div class="block">
+            <div class="leaf">
+                <img src="..//前端学院设计图-assets/leaf.png">
+                <div class="js">
+                    <h3>Learn How to Improve Your Personal Business</h3>
+                    <p>Li Jun, a China Academy of Engineering academician and also director of the alliance's experts'
+                        committee, said that China will also launch design guidance for smart cars, smart map
+                        architecture and standards for test grounds.</p>
+                </div>
+            </div>
+            <div class="leaf">
+                <div class="sj">
+                    <h3>Choose Between Two Beautifully Designed Color Schemes.</h3>
+                    <p>China will come up with its own smart car standards, traffic rules, laws and regulations relating
+                        to safety, according to the China Industry Innovation Alliance for the Intelligent and Connected
+                        Vehicles.</p>
+                </div>
+                <img src="..//前端学院设计图-assets/bird.png">
+            </div>
+        </div>
+    </div>
+    <div class="white">
+        <div class="block">
+            <div class="team">
+                <h2>Our Awesome Crew</h2>
+                <P>Our unique online teaching style makes learning easy for everyone. Whether you<br /> are trying to
+                    land a new job, brush up on your skills.</P>
+            </div>
+            <div class="member">
+                <img src="..//前端学院设计图-assets/1.png">
+                <img src="..//前端学院设计图-assets/2.png">
+                <img src="..//前端学院设计图-assets/3.png">
+                <img src="..//前端学院设计图-assets/4.png">
+            </div>
+        </div>
+    </div>
+    <div class="white">
+        <div class="block">
+            <div class="landing">
+                <div class="ld">
+                    <p>FELL FREE TO WRITE US</p>
+                    <input class="Em" type="text" placeholder="E-mail">
+                    <input class="Em" type="text" placeholder="Subject">
+                    <textarea id="mes" class="Em" type="text" placeholder="Message"></textarea>
+                    <button id="btn">SEND</button>
+                </div>
+            </div>
+            <div class="Contacts">
+                <h3>Contacts</h3>
+                <p>Make any design your own using the Style Editor. Personalize fonts, colors, and layouts to create
+                    the custom look you want.</p>
+                <div class="site">
+                    <img src="..//前端学院设计图-assets/images/icon_03.png">
+                    <p>360 King Street<br />
+                        Feastrvale Trevose, PA 19057 </p>
+                </div>
+                <div class="site">
+                    <img src="..//前端学院设计图-assets/images/icon_06.png">
+                    <p>(755) 564-84-12</p>
+                </div>
+                <div class="site">
+                    <img src="..//前端学院设计图-assets/images/icon_09.png">
+                    <p>youname@mail.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="black">
+        <div class="foot">
+            <div class="learn">
+                <h4>LEARN MORE</h4>
+                <p>How it works?</p>
+                <p>Meeting tools</p>
+                <p>Live streaming</p>
+                <p>Contact method</p>
+            </div>
+            <div class="learn">
+                <h4>ABOUT US</h4>
+                <p>About us</p>
+                <p>Features</p>
+                <p>Privacy police</p>
+                <p>Terms & Conditions</p>
+            </div>
+            <div class="learn">
+                <h4>SUPPORT</h4>
+                <p>F.A.Q.</p>
+                <p>Contact us</p>
+                <p>Live chat</p>
+                <p>Phone call</p>
+            </div>
+            <div id="enjoy" class="learn">
+                <h4>ENJOY YOUR LIFE</h4>
+                <p>Great web UI kit for designers, <br/>freelancers or business.</p>
+                <img src="..//前端学院设计图-assets/images/icon7_03.png">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
