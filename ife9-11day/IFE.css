@@ -1,0 +1,346 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background:linear-gradient( rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65) ), url(..//前端学院设计图-assets/background-1.png);
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.laout{
+    width: 960px;
+    margin: 0 auto;
+}
+.HI{
+    font-size: 4em;
+    color: #f3f8ff;
+    text-align: center;
+    line-height: 160px;
+    padding-top: 140px;
+    font-weight: lighter;
+
+}
+.introduce{
+    color: #f3f8ff;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 30px;
+    width: 720px;
+    margin: 0 auto;
+}
+.register{
+    position: absolute;
+    bottom: 52px;
+    left: 100px;
+}
+.enroll{
+    height: 40px;
+    width: 250px;
+    background-color:transparent;
+    outline-style: none;
+    border-radius: 3px;
+    border: 1px solid #686663;
+    color: #ffffff;
+    padding-left: 22px;
+}
+.account{
+    position: relative;
+    width: 970px;
+    height: 250px;
+    border: 1px solid #686663;
+    margin-top: 104px;
+    border-radius: 2px 2px 2px 2px;
+}
+#mm{
+    margin:0 30px;
+}
+#button{
+    width: 125px;
+    height: 50px;
+    border-radius: 3px;
+}
+.create{
+    text-align: center;
+    color: #ffffff;
+
+
+}
+.create>p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 2px;
+}
+.create>span{
+    opacity: 0.3;
+}
+.background-2{
+    width: 100%;
+    height: 710px;
+}
+.marketing{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.marketing>span{
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    display: block;
+    margin-top: 76px;
+}
+.marketing>p{
+    font-size: 42px;
+    line-height: 52px;
+    font-weight: lighter;
+    margin-top: 39px;
+}
+.peddle{
+    width: 1030px;
+    margin: 0 auto; 
+    height: 400px;
+    display: flex;
+}
+.mobile>img{
+    float: left;
+    margin-right: 31px;
+    margin-bottom: 20px;
+}
+.intro{
+    font-weight: bold;
+}
+#z{
+    padding-left: 79px;
+}
+.particular{
+    width: 350px;
+    font-weight: lighter;
+    padding-left: 66px;
+    
+}
+.clear{
+    clear: both;
+}
+.mobile{
+    width: 430px;
+    height: 85px;
+    margin-right: 179px;
+    margin-bottom: 80px;
+}
+.background-3{
+    width: 100%;
+    height: 800px;
+    background:linear-gradient( rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65) ),url(..//前端学院设计图-assets/background-3.png) no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+.policies{
+    position: absolute;
+    left: 316px;
+    top: 140px;
+    font-size: 42px;
+    line-height: 52px;
+    width: 383px;
+    height: 137px;
+    color: #ffffff;
+}
+#car{
+    position: absolute;
+    left: 315px;
+    top: 350px;
+    font-weight: lighter;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 28px;
+    opacity: 0.7;
+    width: 367px;
+    height: 130px;
+}
+.button>button{
+    width: 240px;
+    height: 60px;
+    letter-spacing: 2px;
+}
+#opacity{
+    position: absolute;
+    left: 315px;
+    top: 555px;
+}
+#Transparent{
+    position: absolute;
+    left: 585px;
+    top: 555px;
+    background-color: transparent;
+    border: 1px solid #686663;
+    color: #ffffff;
+}
+#ipad{
+    width: 645px;
+    height: 600px;
+    position: absolute;
+    top: 104px;
+    right: 0;
+}
+#picture{
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+.Products{
+    width: 100%;
+    height: 580px;
+}
+.block{
+    width: 1030px;
+    margin: 0 auto;
+}
+#Products{
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    margin-top: 99px;
+    font-weight: lighter;
+    margin-bottom: 88px;
+}
+.details{
+    display: flex;
+}
+.singleton{
+    width: 251px;
+    height: 272px;
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin: 0 auto;
+}
+.white{
+    width: 100%;
+    height: 1000px;
+}
+.leaf{
+    display: flex;
+    margin: 80px auto;
+}
+.js{
+    margin-left: 100px;
+    margin-top: 78px;
+}
+.sj{
+    margin-right: 95px;
+    margin-top: 72px;
+}
+.team{
+    text-align: center;
+    margin-top: 99px;
+}
+.team>h2{
+    line-height: 52px;
+
+}
+.team>p{
+    line-height: 28px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member>img{
+    margin: 15px;
+}
+.member>img:hover{
+    opacity: 0.8;
+}
+.landing{
+    width: 470px;
+    height: 560px;
+    border: 1px solid rgb(20,20,20,0.1);
+    border-radius: 10px 10px 10px 10px;
+    float: left;
+}
+.ld{
+    width: 370px;
+    margin: 0 auto;
+}
+.ld>p{
+    font-size: 16px;
+    height: 32px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 45px 0;
+}
+.Em{
+    width: 370px;
+    height: 50px;
+    border: 1px solid rgb(38,35,33,0.2);
+    margin-bottom: 30px;
+    border-radius: 2px 2px 2px 2px;
+}
+#mes{
+    height: 144px;
+}
+.ld>::-webkit-input-placeholder{
+    padding-left:20px; 
+}
+#btn{
+    width: 370px;
+    height: 50px;
+    background-color: #141414;
+    color: #ffffff;
+    letter-spacing: 2px;
+    outline-style: none;
+}
+.Contacts{
+    width: 351px;
+    float: left;
+    margin-left: 132px;
+}
+.Contacts>h3{
+    margin-bottom: 39px;
+    font-size: 42px;    
+    line-height: 52px;
+}
+.Contacts>p{
+    font-size: 16px;
+    line-height: 26px;
+    opacity: 0.7;
+    margin-bottom: 70px; 
+}
+.site>img{
+    float: left;
+    margin-right: 19px;
+}
+.site>p{
+    margin-bottom: 37px;
+}
+.black{
+    width: 100%;
+    height: 410px;
+    background-color: #141414;
+}
+.foot{
+    width: 1483px;
+    margin: 0 auto;
+    position: relative;
+}
+.learn{
+    margin-top: 88px;
+    display: inline-block;
+    margin-right: 200px;
+}
+.learn>h4{
+    color: #ffffff;
+    line-height: 28px;
+    letter-spacing: 2px;
+}
+.learn>p{
+    font-size: 16px;
+    color: #ffffff;
+    opacity: 0.3;
+}
+#enjoy{
+    position: absolute;
+    right: 218px;
+    margin-right: 0;
+}
